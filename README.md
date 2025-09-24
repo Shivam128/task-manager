@@ -68,25 +68,25 @@ task-manager/
 ### 3️⃣ Steps to Run
 
 1. Make sure Node.js and npm are installed:
-   \`\`\`bash
+   ```bash
    node -v
    npm -v
-   \`\`\`
+   ```
 
-2. Create a new React app or place your files in the folder \`task-manager\`.
+2. Create a new React app or place your files in the folder `task-manager`.
 
-3. Copy the above \`package.json\` to your project root.
+3. Copy the above `package.json` to your project root.
 
 4. Install dependencies:
 
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+      ```
 
 5. Start the project:
 
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
 6. Open your browser at http://localhost:3000 to see the Task Manager app.
